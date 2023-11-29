@@ -1,0 +1,11 @@
+{
+  "name": "sql_exercises",
+  "version": "1.0.0",
+  "description": "Un petit programme JavaScript pour automatiser le lancement de mes programmes SQL pour le cours de SQL.",
+  "main": "sql-exe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elouann",
+  "license": "MIT"
+}
